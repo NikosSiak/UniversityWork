@@ -14,4 +14,5 @@ Standards:
 
 - All arrays should be dynamically allocated.
 - No global variables.
-- The name of the input file (puzzle) will be given with command line arguments. 
+- The name of the input file (puzzle) will be given with command line arguments.
+- A value that is presented to the user can't be changed.
