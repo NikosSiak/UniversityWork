@@ -21,6 +21,6 @@ Standards:
 
 Puzzle 5
 
-![initial_state](Screenshots\initial_state.jpg)
-![state](Screenshots\random_state.jpg)
-![final_state](Screenshots\final_state.jpg)
+![initial_state](Screenshots/initial_state.jpg)
+![state](Screenshots/random_state.jpg)
+![final_state](Screenshots/final_state.jpg)
