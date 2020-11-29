@@ -1,7 +1,6 @@
 #include <omp.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <memory.h>
 
 void multisort(int *array, int *space, int n);
 
